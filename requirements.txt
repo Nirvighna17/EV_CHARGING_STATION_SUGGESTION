@@ -1,2 +1,10 @@
 streamlit
+pandas
+emoji
+urlextract
+wordcloud
+matplotlib
+seaborn
+nltk
+scikit-learn
 
